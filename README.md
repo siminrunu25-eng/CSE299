@@ -1,2 +1,1 @@
-# html-course-fcc
-## Projects
+# Education Management System Website
